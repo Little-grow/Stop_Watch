@@ -1,6 +1,6 @@
 # Stop_Watch
 
-Stopwatch , simulate a stopwatch , provides two methods: Start and Stop. We call the start method first, and the stop method next. 
+Stopwatch simple program , provides two methods: Start and Stop. We call the start method first, and the stop method next. 
 Then we ask the stopwatch about the duration between start and stop. 
 Duration is a value in TimeSpan , displayed on the console. 
 We are able to use a stopwatch multiple times.
